@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data
+data/
+
+# Assignment files
+CSE752_W02_Home_Assignment.md
