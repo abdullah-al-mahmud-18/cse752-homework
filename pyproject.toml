@@ -7,7 +7,11 @@ authors = [
     { name = "Abdullah Al Mahmud", email = "mahmudmridul.185@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.11.2",
+    "torch>=2.14.1",
+    "torchvision>=0.29.1",
+]
 
 [project.scripts]
 week-02 = "week_02.main:main"
